@@ -49,7 +49,7 @@
 
 ### Diagram
 
-![Secured and Monitored Infrastructure](images/2-secured_and_monitored_web_infrastructure.png)
+![Secured and Monitored Infrastructure](2-secured_and_monitored_web_infrastructure.png)
 
 ### Explanations
 
